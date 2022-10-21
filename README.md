@@ -1,1 +1,1 @@
-# aula01-exercicoMobilidade
+# aula01-exercicioMobilidade
